@@ -1,0 +1,11 @@
+chromadb
+python-dotenv
+langchain
+langchain-community
+langchain-chroma
+langchain-groq
+huggingface_hub
+numpy
+rank-bm25
+fastapi
+uvicorn

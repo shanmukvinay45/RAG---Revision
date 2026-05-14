@@ -1,0 +1,17 @@
+# Stack is API-oriented: Groq (LLM) + Hugging Face Inference (embed + rerank).
+# No sentence-transformers / local model weights from pip here.
+
+chromadb
+python-dotenv
+langchain
+langchain-community
+langchain-chroma
+langchain-groq
+huggingface_hub
+numpy
+rank-bm25
+fastapi
+uvicorn
+ragas
+datasets
+pandas
